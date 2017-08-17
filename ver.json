@@ -1,4 +1,10 @@
 {
+  ver:1,
   
-  ver:'xxxx'
+  filedata:[
+    'U,%APPDIR%/libgri.dll,/libgrid.dll,md5码'
+    
+    
+  ]
+  
 }
