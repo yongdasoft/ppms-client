@@ -4,11 +4,11 @@
 
 ```json
 {
-  ver:12,
-  filedata:[
+  "ver":12,
+  "filedata":[
     "U,%APPDIR%/libcg.dll,libcg.dll,12122333sss22222",
     "D,%APPDIR%/libcg.dll,libcg.dll,12122333sss22222",  
-    "D,%APPDIR%/libcg.dll,libcg.dll,12122333sss22222",
+    "D,%APPDIR%/libcg.dll,libcg.dll,12122333sss22222"
  
   ]
 
@@ -20,6 +20,7 @@
 - U=更新功能
 - D=删除功能
 3. 文档必是utf8编码
+4. 文件名区分大小写.
 
  
 
