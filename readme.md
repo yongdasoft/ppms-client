@@ -2,7 +2,7 @@
 
 #### ver.json 格式
 
-```
+```json
 {
   ver:12,
   filedata:[
