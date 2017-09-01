@@ -1,5 +1,5 @@
 {
-  "ver":11,
+  "ver":12,
   "filedata":[
     "U,%APPDIR%/libcef.dll,libcef.dll,md5码",
     "U,%APPDIR%/libEGL.dll,libEGL.dll,md5码",
